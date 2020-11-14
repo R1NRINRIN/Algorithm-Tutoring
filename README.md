@@ -1,2 +1,2 @@
-# HFUS_Algorithm-Tutoring
+# HUFS_Algorithm-Tutoring
 2020 Algorithm Tutoring
